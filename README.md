@@ -1,6 +1,6 @@
 # File translator
 
-Simple python script which searches of specific extenstions files in current working directory, and saves it translated copy wherever you want.
+Simple python script which searches of specific extenstions files in current working directory, and saves it translated copy wherever you want. Just run the script from the directory that you have files you want to translate.
 
 Supported extensions:
 
